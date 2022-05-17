@@ -10,7 +10,6 @@ Os scripts de teste estão na pasta [teste](teste) e no script do Locust (.py) t
 
 - Python 3.8+: https://www.python.org/downloads/
 - Locust 2.8+: https://docs.locust.io/en/stable/installation.html
-- Taurus 1.16+: https://gettaurus.org/install/Installation/
 
 ### Instalação (instruções Debian/Ubuntu):
 
